@@ -1,12 +1,10 @@
-# Relay Starter Kit
 
-This kit includes an app server, a GraphQL server, and a transpiler that you can use to get started building an app with Relay. For a walkthrough, see the [Relay tutorial](https://facebook.github.io/relay/docs/tutorial.html).
-
-## Installation
 
 ```
 npm install
-```
+ユーザーリストapp```
+
+
 
 ## Running
 
